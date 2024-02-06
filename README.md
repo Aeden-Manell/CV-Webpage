@@ -1,31 +1,40 @@
 # CV-Webpage
-Personal CV Webpage using HTML &amp; CSS
 
+# HTML & CSS Capstone Project - Challenge 1
 
-I reviewed my existing personal CV webpage created using HTML.
+This is my HTML & CSS Capstone Project for Challenge 1. It is a personal CV webpage showcasing my skills, education, work experience, and recent projects.
 
-I identified areas where CSS styling could enhance the visual appeal and readability of the content.
+## Project Link
 
-I applied CSS to format the text, added colors, chose appropriate fonts, and adjusted spacing to create a visually appealing design.
+You can access the project by clicking [here](https://aedenmanellcvwebpage.netlify.app/).
 
-I utilized CSS to create a consistent layout by defining styles for headings, paragraphs, lists, and other elements.
+## GitHub Repository
 
-I enhanced the existing sections with CSS styling, such as applying different background colors or border styles.
+The source code for this project is available on GitHub. You can find the repository [here](https://github.com/Aeden-Manell/CV-Webpage).
 
-I introduced additional content sections to provide more comprehensive information about myself, including:
-a. Skills and Proficiencies: I created a section to list my key skills and proficiencies related to my field of interest.
-b. Work Experience: I included a section to outline my previous work experiences, internships, or volunteer activities.
-c. Education: I added a section to showcase my educational background, including degrees, certificates, and relevant courses.
-d. Projects: I highlighted any notable projects I have worked on and provided brief descriptions and relevant links.
-e. Achievements or Awards: I created a section to highlight any significant accomplishments or awards I have received.
+## Description
 
-I incorporated appropriate CSS styles for these additional sections to maintain visual consistency with the rest of the webpage.
+This project is a static webpage built using HTML and CSS. It serves as my personal CV, providing information about my skills, education, work experience, and recent projects. The webpage is designed to be responsive, ensuring optimal viewing experience across different devices.
 
-I ensured that my webpage remained responsive by using media queries to adjust the layout and styling for different screen sizes.
+## Features
 
-I tested my enhanced personal CV webpage across various browsers and devices to ensure compatibility and functionality.
+- Personal information section showcasing name, age, email, and phone number
+- Skills section highlighting front-end development, programming languages, web design tools, and additional skills
+- Education section detailing coding bootcamp and bachelor's degree in computer science
+- Work experience section highlighting freelance web development and volunteering experience
+- Recent projects section showcasing links to my recent projects
 
-I shared my updated webpage with others and gathered feedback for further improvements and refinements.
+## Usage
 
-Creativity was rewarded, and I added elements, sections, and features that I wanted to include.
+To view the webpage, simply click on the project link provided above. The webpage is hosted on Netlify and can be accessed from any web browser.
+
+## Contributing
+
+Contributions to this project are currently not open. However, if you have any suggestions or feedback, feel free to reach out to me.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE). Feel free to use the code and customize it for your own personal use.
+
+Thank you for checking out my HTML & CSS Capstone Project! If you have any questions or inquiries, please don't hesitate to contact me.
 
